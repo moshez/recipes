@@ -4,4 +4,5 @@ Moshe'z Recipes
 .. toctree::
     :maxdepth: 1
 
+    israeli-salad
     pasta-alla-norma
