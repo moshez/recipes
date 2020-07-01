@@ -6,3 +6,4 @@ Moshe'z Recipes
 
     israeli-salad
     pasta-alla-norma
+    matzah-brei
