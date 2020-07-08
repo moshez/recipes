@@ -8,3 +8,4 @@ Moshe'z Recipes
     pasta-alla-norma
     matzah-brei
     rosti
+    leek-patties
