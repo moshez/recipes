@@ -9,3 +9,4 @@ Moshe'z Recipes
     matzah-brei
     rosti
     leek-patties
+    vegetarian-chili
