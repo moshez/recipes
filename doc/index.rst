@@ -11,3 +11,4 @@ Moshe'z Recipes
     leek-patties
     vegetarian-chili
     glazed-carrots
+    mujaddara
