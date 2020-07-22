@@ -12,3 +12,5 @@ Moshe'z Recipes
     vegetarian-chili
     glazed-carrots
     mujaddara
+    roasted-garlic.rst
+    
