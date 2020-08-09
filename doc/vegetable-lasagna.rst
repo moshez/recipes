@@ -39,11 +39,19 @@ Stir-Fry Veggies
 * Add a few large handfuls of spinach.
 * Cook, stirring frequently, for 3 minutes.
 * Repeat with remaining spinach
+
+Make Lasagna Mix
+~~~~~~~~~~~~~~~~
+
 * Pour 1 cup of cottage cheese into the food processor and blend for 1 minute.
 * Transfer food processor bowl to a mixing bowl.
 * Put stir-fry into food processor and pulse 6 times.
 * Combine with blended cottage cheese.
 * Add 1 cup of cottage cheese, 1/4 tsp salt, black pepper, and stir.
+
+Build Lasagna
+~~~~~~~~~~~~~
+
 * Spread 1/2 cup tomato sauce over botto of 9 by 9 baking dish.
 * Layer 3 lasagna noodles on top.
 * Spread half of cottage cheese mixtures on noodles.
@@ -55,11 +63,12 @@ Stir-Fry Veggies
 * Layer 3 lasagna noodles on top.
 * Add 3/4 cup of tomato sauce.
 * Add 1 cup of shredded cheese.
+
+Bake
+~~~~
+
 * Preheat the oven to 425F.
 * Wrap foil around the top, but don't let it touch the lasagna.
 * Bake for 18 minutes.
 * Remove cover, rotate pan by 180 and bake for 12 more miutes.
 * Remove from oven and let cool or 15 minutes.
-
-
-
