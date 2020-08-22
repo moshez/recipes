@@ -15,3 +15,6 @@ Moshe'z Recipes
     roasted-garlic
     eggs-with-tomatoes
     vegetable-lasagna
+    lubia
+    apples-and-quinces
+    chard-patties
