@@ -18,3 +18,4 @@ Moshe'z Recipes
     lubia
     apples-and-quinces
     chard-patties
+    mushroom-alfredo-in-bread
