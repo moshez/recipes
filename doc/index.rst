@@ -19,3 +19,4 @@ Moshe'z Recipes
     apples-and-quinces
     chard-patties
     mushroom-alfredo-in-bread
+    challah
