@@ -20,3 +20,4 @@ Moshe'z Recipes
     chard-patties
     mushroom-alfredo-in-bread
     challah
+    sushi-rice
