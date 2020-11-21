@@ -21,3 +21,4 @@ Moshe'z Recipes
     mushroom-alfredo-in-bread
     challah
     sushi-rice
+    vegetarian-gravy
