@@ -22,3 +22,4 @@ Moshe'z Recipes
     challah
     sushi-rice
     vegetarian-gravy
+    latkes
