@@ -23,3 +23,4 @@ Moshe'z Recipes
     sushi-rice
     vegetarian-gravy
     latkes
+    kufta
