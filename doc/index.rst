@@ -24,3 +24,4 @@ Moshe'z Recipes
     vegetarian-gravy
     latkes
     kufta
+    pie-pastry
