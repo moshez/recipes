@@ -26,3 +26,4 @@ Moshe'z Recipes
     kufta
     pie-pastry
     hamantaschen
+    marzipan
