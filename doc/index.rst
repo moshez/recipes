@@ -25,3 +25,4 @@ Moshe'z Recipes
     latkes
     kufta
     pie-pastry
+    hamantaschen
