@@ -27,3 +27,4 @@ Moshe'z Recipes
     pie-pastry
     hamantaschen
     marzipan
+    shakshuka
