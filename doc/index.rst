@@ -28,3 +28,4 @@ Moshe'z Recipes
     hamantaschen
     marzipan
     shakshuka
+    scaccia
