@@ -29,3 +29,4 @@ Moshe'z Recipes
     marzipan
     shakshuka
     scaccia
+    chocolate-cake
