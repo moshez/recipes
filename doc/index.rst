@@ -30,3 +30,4 @@ Moshe'z Recipes
     shakshuka
     scaccia
     chocolate-cake
+    passover-latkes
