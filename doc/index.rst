@@ -31,3 +31,5 @@ Moshe'z Recipes
     scaccia
     chocolate-cake
     passover-latkes
+    satlaj
+    rice-and-milk
