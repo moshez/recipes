@@ -18,6 +18,7 @@ Preparation
 * Put two cups of milk in a pot.
 * Heat until it's boiling.
 * Mix in the sugar slowly until it all melts.
+* Add rose water.
 * Mix in the milk with corn starch slowly.
 * Mix until the mixture has a porridge-like consistency.
 * Remove pot from heat.
