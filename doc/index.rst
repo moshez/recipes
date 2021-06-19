@@ -33,3 +33,4 @@ Moshe'z Recipes
     passover-latkes
     satlaj
     rice-and-milk
+    pasta-and-veggies
