@@ -34,3 +34,4 @@ Moshe'z Recipes
     satlaj
     rice-and-milk
     pasta-and-veggies
+    three-can-chili
