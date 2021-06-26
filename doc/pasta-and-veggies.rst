@@ -13,7 +13,8 @@ Ingredients
 * Penne pasta (3 cups)
 * Onion (3)
 * Canned diced tomatoes (3 cups)
-* 20 Carrots
+* Carrots (20)
+* Zucchini (5)
 * Salt (1 tsp)
 * Pepper (1 tsp)
 * Butter (3 tsp)
@@ -25,11 +26,13 @@ Preparation
 * Chop the onion
 * Peel the carrots
 * Slice the carrots
+* Slice the zucchini
 * Put oil in saucepan
 * Add onion
 * Fry until transparent.
 * Add tomatoes
 * Add carrots
+* Add zuccini
 * Add salt
 * Add pepper
 * Cover
@@ -39,4 +42,4 @@ Preparation
 * Cook for another five minutes
 * Add butter
 * Add penne
-* Divide into six portions
+* Divide into five portions
