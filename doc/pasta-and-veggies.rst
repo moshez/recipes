@@ -15,6 +15,7 @@ Ingredients
 * Canned diced tomatoes (3 cups)
 * Carrots (20)
 * Zucchini (5)
+* Canned mushrooms (4)
 * Salt (1 tsp)
 * Pepper (1 tsp)
 * Butter (3 tsp)
@@ -33,6 +34,7 @@ Preparation
 * Add tomatoes
 * Add carrots
 * Add zuccini
+* Add mushrooms
 * Add salt
 * Add pepper
 * Cover
