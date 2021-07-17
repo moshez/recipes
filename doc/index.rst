@@ -37,3 +37,4 @@ Moshe'z Recipes
     three-can-chili
     broccoli-with-mushroom-sauce
     grilled-arayes
+    breakfast-burrito
