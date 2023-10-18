@@ -1,6 +1,6 @@
-master_doc = 'index'
+root_doc = 'index'
 project = "Moshe'z Recipes"
-copyright = '2020, Moshe Zadka'
+copyright = 'Moshe Zadka'
 author = 'Moshe Zadka'
 version = release = ''
 

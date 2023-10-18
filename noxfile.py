@@ -14,7 +14,7 @@ def docs(session):
     )
     print(html)
     session.run("rm", "-rf", output_dir, external=True)
-    session.install("sphinx", "sphinx-rtd-theme")
+    session.install("-r", "requirements.txt")
     session.cd("doc")
     sphinx_cmd = "sphinx-build"
     session.run(sphinx_cmd, "-b", "html", "-W", "-d", doctrees, ".", html)
