@@ -23,6 +23,7 @@ Moshe'z Recipes
     sushi-rice
     vegetarian-gravy
     mushroom-gf-vegetarian-gravy
+    stove-top-brisket
     latkes
     kufta
     pie-pastry
