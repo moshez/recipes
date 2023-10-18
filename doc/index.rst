@@ -4,18 +4,16 @@ Moshe'z Recipes
 .. toctree::
     :maxdepth: 1
 
+    jewish-holidays
     israeli-salad
     pasta-alla-norma
-    matzah-brei
     rosti
-    leek-patties
     vegetarian-chili
     glazed-carrots
     mujaddara
     roasted-garlic
     eggs-with-tomatoes
     vegetable-lasagna
-    lubia
     apples-and-quinces
     chard-patties
     mushroom-alfredo-in-bread
