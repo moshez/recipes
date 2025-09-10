@@ -8,6 +8,7 @@ Recipes for Jewish Holidays
     beef-cheek-pot-roast
     chard-patties
     leek-patties
+    gourd 
     lubia
     latkes
     hamantaschen
@@ -16,4 +17,3 @@ Recipes for Jewish Holidays
     kneidalach
     rice-and-milk
     satlaj
-    gourd 
