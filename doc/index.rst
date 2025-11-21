@@ -6,6 +6,7 @@ Moshe'z Recipes
 
     jewish-holidays/index
     israeli-salad
+    tahini-salad
     pasta-alla-norma
     rosti
     vegetarian-chili
