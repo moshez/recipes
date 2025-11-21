@@ -1,5 +1,5 @@
-Tahini Salad
-------------
+Cucumber and Pickle Salad
+-------------------------
 
 A refreshing and protein-rich salad with a creamy tahini dressing.
 
@@ -7,7 +7,7 @@ Ingredients
 ~~~~~~~~~~~
 
 * 2 Large cucumbers
-* 3-4 Dill pickles
+* 3-4 Brined pickles
 * 4 Hard-boiled eggs
 * 1/2 Cup tahini (or more to taste)
 * 2-3 Tablespoons lemon juice
@@ -26,13 +26,3 @@ Preparation
 7. Add salt to the tahini sauce to taste
 8. Combine the chopped cucumbers, pickles, and egg whites in a serving bowl
 9. Pour the tahini sauce over the vegetables and mix well to coat everything
-
-Variants
-~~~~~~~~
-
-* Add chopped fresh dill or parsley for extra flavor
-* Include the egg yolks if you want a richer salad
-* Add a pinch of cumin to the tahini sauce
-* Mix in some chopped tomatoes
-* Add minced garlic to the tahini sauce
-* Sprinkle with za'atar or sumac before serving
