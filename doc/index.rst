@@ -20,6 +20,7 @@ Moshe'z Recipes
     vegetarian-gravy
     mushroom-gf-vegetarian-gravy
     stove-top-brisket
+    jewish-brisket
     kufta
     pie-pastry
     marzipan
