@@ -48,6 +48,13 @@ Serving Options
 * Return sliced brisket to liquid.
 * Reheat 30 minutes at 325°F.
 
+**To reheat in slow cooker (sliced brisket in liquid):**
+
+* Place Dutch oven on slow cooker heating element.
+* Heat on high for 2-3 hours until liquid is gently bubbling.
+* Switch to low to keep warm until serving.
+* Skim fat just before serving.
+
 **To serve immediately:**
 
 * Remove meat from pot.
