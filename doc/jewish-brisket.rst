@@ -34,7 +34,9 @@ Instructions
 * Add crushed tomatoes.
 * Liquid should cover the meat and most vegetables.
 * Cover Dutch oven with lid.
-* Bake for 3-3.5 hours until very tender.
+* Bake for 2 hours at 325°F.
+* Reduce oven temperature to 320°F.
+* Continue baking for 6 hours until very tender.
 
 Serving Options
 ---------------
