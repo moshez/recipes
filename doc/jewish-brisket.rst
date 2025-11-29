@@ -11,6 +11,7 @@ Ingredients
 * Minced garlic (2 tsp)
 * Dried thyme (1 tsp)
 * Kosher salt (1 tsp)
+* Salt (1/2 tbsp)
 * Black pepper (1/4 tsp)
 * First-cut beef brisket (4-5 lb)
 * Chopped onions (2 cups)
