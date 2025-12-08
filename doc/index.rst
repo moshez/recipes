@@ -33,3 +33,4 @@ Moshe'z Recipes
     broccoli-with-mushroom-sauce
     grilled-arayes
     breakfast-burrito
+    smoky-paprika-vegetable-stew
