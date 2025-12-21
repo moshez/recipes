@@ -18,6 +18,7 @@ Moshe'z Recipes
     mushroom-alfredo-in-bread
     challah
     sushi-rice
+    white-rice
     vegetarian-gravy
     mushroom-gf-vegetarian-gravy
     stove-top-brisket
