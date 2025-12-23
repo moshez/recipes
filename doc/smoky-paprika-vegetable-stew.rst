@@ -14,7 +14,7 @@ Ingredients
 * 1 large onion (or 2 medium), diced
 * 1 head of garlic, cloves peeled and left whole
 * 12-16 oz cremini or baby bella mushrooms, quartered
-* Half a medium head of cabbage, cut into 2-inch chunks
+* Half a medium head of cabbage, grated
 * 2 packs Impossible hot dogs (8 links total), sliced into 1/2-inch rounds
 * 1.5-2 tablespoons smoked paprika
 * 1/2 teaspoon black pepper
