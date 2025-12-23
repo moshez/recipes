@@ -5,11 +5,11 @@ Moshe'z Recipes
     :maxdepth: 1
 
     jewish-holidays/index
+    stews/index
     israeli-salad
     tahini-salad
     pasta-alla-norma
     rosti
-    vegetarian-chili
     glazed-carrots
     mujaddara
     roasted-garlic
@@ -21,8 +21,6 @@ Moshe'z Recipes
     white-rice
     vegetarian-gravy
     mushroom-gf-vegetarian-gravy
-    stove-top-brisket
-    jewish-brisket
     kufta
     pie-pastry
     marzipan
@@ -30,8 +28,6 @@ Moshe'z Recipes
     scaccia
     chocolate-cake
     pasta-and-veggies
-    three-can-chili
     broccoli-with-mushroom-sauce
     grilled-arayes
     breakfast-burrito
-    smoky-paprika-vegetable-stew
