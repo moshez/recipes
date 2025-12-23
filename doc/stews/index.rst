@@ -9,3 +9,4 @@ Stews
     stove-top-brisket
     three-can-chili
     vegetarian-chili
+    celery-potato-lemon-stew
