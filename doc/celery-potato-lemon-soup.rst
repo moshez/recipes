@@ -1,4 +1,4 @@
-Celery Potato Lemon Stew
+Celery Potato Lemon Soup
 ------------------------
 
 Ingredients
