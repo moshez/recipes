@@ -31,4 +31,3 @@ Moshe'z Recipes
     broccoli-with-mushroom-sauce
     grilled-arayes
     breakfast-burrito
-    celery-potato-lemon-soup
