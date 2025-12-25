@@ -1,5 +1,9 @@
-Smoky Paprika Vegetable Stew with Impossible Hot Dogs
-=====================================================
+Transylvania Stew
+=================
+
+This stew is named after the Transylvania region, inspired by Romanian and
+Hungarian cooking traditions. The generous amount of garlic (a whole head!)
+also evokes the vampire-warding folklore of the region.
 
 Fills a 4-quart slow cooker, makes approximately 6-8 servings.
 Serve over rice.
