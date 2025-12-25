@@ -6,6 +6,7 @@ Moshe'z Recipes
 
     jewish-holidays/index
     stews/index
+    heart-healthy/index
     israeli-salad
     tahini-salad
     pasta-alla-norma
