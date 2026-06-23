@@ -33,3 +33,4 @@ Moshe'z Recipes
     grilled-arayes
     breakfast-burrito
     veggie-dog-pinto-bean-bake
+    mujadara-hamra
