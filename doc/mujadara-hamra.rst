@@ -25,35 +25,45 @@ Method
 
 * Parcook the lentils:
   Rinse the lentils and pick through for any small stones.
-  Add to a saucepan with the water,
-  bring to a boil,
-  then reduce and simmer uncovered until just shy of tender --
-  they should still be firm,
-  since they'll finish cooking with the bulgur.
-  Drain, but keep the cooking liquid.
+  Add to a saucepan with all of the water (950 g / 4 cups --
+  the same water from the ingredient list;
+  it's a boil-and-drain, so the excess is intentional and gets reserved).
+  Bring to a rolling boil,
+  then drop to a gentle simmer and cook uncovered for 12-15 min,
+  until just shy of tender --
+  pull them while still firm,
+  since beluga fully cook in 20-25 min
+  and they'll get about 25 more min of cooking later with the bulgur.
+  Drain, but keep all of the cooking liquid
+  (you'll use 475 ml of it in the next steps).
 * Deeply caramelize the onions:
-  Heat the olive oil in a wide, heavy-bottomed pot over medium-low heat.
-  Add the onions and cook, stirring often,
+  Heat the olive oil (72 g / 1/3 cup)
+  in a wide, heavy-bottomed pot over medium-low heat.
+  Add the onions (800 g / ~4 large, finely chopped)
+  and cook, stirring often,
   until very deeply browned --
   well past golden, into a dark mahogany,
-  with some edges almost burnt.
+  with some edges almost-but-not-burnt.
   This is where all the flavor and color come from,
   so don't rush it (30-40 min).
   If you want a topping,
-  scoop out a spoonful of the crispiest bits and set aside.
+  scoop out about 2 tbsp of the crispiest bits and set aside.
 * Combine and season:
   Stir the drained lentils into the onions
-  along with the cumin, salt, and pepper.
+  along with the cumin (3 g / 1.5 tsp),
+  salt (7 g / 1.25 tsp),
+  and pepper (1 g / 0.5 tsp).
   Pour in 475 ml (2 cups) of the reserved lentil liquid
-  (top up with water if you're short).
+  (top up with plain water if you came up short).
   Bring to a boil.
 * Cook the bulgur:
-  Stir in the bulgur.
+  Stir in the bulgur (150 g / 1 cup).
   Reduce heat to low, cover tightly,
-  and simmer until the liquid is absorbed and the bulgur is tender.
+  and simmer about 15 min,
+  until the liquid is absorbed and the bulgur is tender.
   Resist adding more water -- the steam step finishes it.
 * Rest and steam:
-  Turn off the heat and leave the pot covered, off the burner.
+  Turn off the heat and leave the pot covered, off the burner, for 10 min.
   Any remaining moisture gets absorbed
   and the extra-coarse grains fully hydrate and set.
 * Fluff and serve:
