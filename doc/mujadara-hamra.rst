@@ -33,9 +33,9 @@ Method
   until just shy of tender --
   pull them while still firm,
   since beluga fully cook in 20-25 min
-  and they'll get about 25 more min of cooking later with the bulgur.
+  and they'll get about 30-35 more min of cooking later with the bulgur.
   Drain, but keep all of the cooking liquid
-  (you'll use 475 ml of it in the next steps).
+  (you'll use 530 ml of it in the next steps).
 * Deeply caramelize the onions:
   Heat the olive oil (72 g / 1/3 cup)
   in a wide, heavy-bottomed pot over medium-low heat.
@@ -53,14 +53,18 @@ Method
   along with the cumin (3 g / 1.5 tsp),
   salt (7 g / 1.25 tsp),
   and pepper (1 g / 0.5 tsp).
-  Pour in 475 ml (2 cups) of the reserved lentil liquid
+  Pour in 530 ml (2¼ cups) of the reserved lentil liquid
   (top up with plain water if you came up short).
   Bring to a boil.
 * Cook the bulgur:
   Stir in the bulgur (150 g / 1 cup).
   Reduce heat to low, cover tightly,
-  and simmer about 15 min,
+  and simmer about 20-25 min,
+  keeping the heat genuinely low and the lid tight
+  so the grains hydrate instead of boiling off,
   until the liquid is absorbed and the bulgur is tender.
+  The black lentils hold their shape so well
+  that the extra time won't hurt them at all.
   Resist adding more water -- the steam step finishes it.
 * Rest and steam:
   Turn off the heat and leave the pot covered, off the burner, for 10 min.
