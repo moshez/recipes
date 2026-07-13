@@ -22,17 +22,17 @@ Ingredients
 * 15 grams white miso
 * 2 grams unsweetened cocoa powder
 * 1 bay leaf
-* 0.3 teaspoons red pepper flakes
-* 100 milliliters unsweetened soy milk
+* 0.5 grams red pepper flakes
+* 100 grams unsweetened soy milk
 * 10 grams balsamic vinegar
 * 8 grams nutritional yeast
-* 1 teaspoon salt
-* 0.5 teaspoons black pepper
+* 6 grams salt
+* 1 gram black pepper
 
 Method
 ~~~~~~
 
-#. Soak the porcini: Heat 600ml of water to 65°C. Pour it over the
+#. Soak the porcini: Heat 600 grams of water to 65°C. Pour it over the
    dried porcini mushrooms, cover, and leave to steep. Not boiling
    water — the enzyme that generates guanylate during rehydration
    works in this temperature window and boiling water destroys it on
@@ -40,7 +40,7 @@ Method
 #. Prep the vegetables: Finely dice the onion, carrot, and fennel
    bulb. Mince the garlic cloves.
 #. Rehydrate the TVP: Lift the porcini out, leaving the grit behind,
-   and chop them. Strain the liquid. Pour 280ml of it over the TVP
+   and chop them. Strain the liquid. Pour 280 grams of it over the TVP
    granules and let it absorb completely — nothing to drain, nothing
    thrown away. Reserve the remaining liquid for the deglaze.
 #. Brown the TVP: Heat half the olive oil over medium-high and fry the
@@ -71,7 +71,8 @@ Notes
 ~~~~~
 
 The porcini liquid is the whole umami budget of this sauce and none of
-it gets discarded: 280ml goes into the TVP, the rest deglazes the pan.
+it gets discarded: 280 grams go into the TVP, the rest deglazes the
+pan.
 Reduce further than you would a normal ragù — you want it thick enough
 to coat a small pour of pasta rather than pool around it. It's better
 on day two, and it freezes well in portions.
