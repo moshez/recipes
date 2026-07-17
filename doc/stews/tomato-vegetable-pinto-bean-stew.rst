@@ -62,13 +62,19 @@ Method
   Stir to combine.
   It will look overpacked --
   the cabbage and eggplant collapse quickly and make room.
-* Simmer:
-  bring to a simmer over medium,
-  then reduce to low and cook, stirring occasionally,
-  for about 45 minutes.
+* Simmer, phase 1 (covered, about 20 minutes):
+  bring up on medium with the lid on until steam escapes,
+  spin the lid to form the vapor seal,
+  then drop to low.
+  Everything softens and melds, no water lost.
   Keep it at a genuine simmer, not just a hold --
   that is what carries every vegetable
   well past the temperature that makes the pot safe, with margin.
+* Simmer, phase 2 (uncovered or lid well ajar, about 20-25 minutes):
+  this is where it reduces and the sauce concentrates.
+  Stir occasionally -- thick tomato scorches on the base.
+  Judge the end by consistency, not the clock:
+  pull it when the sauce coats rather than pools.
   Add a splash of water only if it tightens too much.
 * Salt and finish:
   taste.
@@ -85,8 +91,30 @@ Notes
 The sear on the mushrooms and eggplant is doing flavor work,
 not safety work --
 it is fine that a hard sear leaves the interiors under temperature,
-because the 45-minute simmer is the kill step
+because the roughly 45-minute two-phase simmer is the kill step
 and clears 70C throughout with room to spare.
+
+Induction temperature:
+the dial reads the pot bottom through the glass,
+and the bottom always runs hotter than the liquid,
+so the number you set sits above the stew's actual temperature.
+A simmer is 85-96C;
+to land there, set the target around 99-104C and adjust.
+Easier gauge: calibrate to what you see, not the dial --
+small pinprick bubbles rising and occasionally breaking the surface
+(phase 2),
+or a freely spinning sealed lid (phase 1).
+A full 6-liter pot will not hold a simmer at the very bottom setting,
+so expect low-medium.
+
+Portioning:
+a main-dish serving is about 350 grams --
+denser after the reduction, and the beans are filling,
+so no need to go higher.
+Serve over 60-100 grams cooked rice or pasta,
+about 17-28 grams of carbohydrate.
+Pasta, cooked al dente, is the marginally gentler base
+on the glucose curve than white rice.
 Everything going in at once means the zucchini and green beans
 cook soft rather than staying firm; that is by design here.
 The pintos will soften toward creamy over the full simmer
