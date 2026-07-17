@@ -5,7 +5,7 @@ import nox
 
 nox.options.envdir = "build/nox"
 
-@nox.session(python="3.11")
+@nox.session(python="3.13")
 def docs(session):
     """Build the documentation."""
     output_dir = os.path.abspath(os.path.join(session.create_tmp(), "output"))
