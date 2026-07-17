@@ -9,3 +9,4 @@ Stews
     stove-top-brisket
     three-can-chili
     vegetarian-chili
+    tomato-vegetable-pinto-bean-stew
