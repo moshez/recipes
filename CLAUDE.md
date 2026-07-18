@@ -22,4 +22,10 @@ Recipes are written in reStructuredText with the following structure:
 
 ## Building Locally
 
-Use nox to build the documentation locally.
+Use nox to build the documentation locally: `nox -s docs`.
+
+Nox is the ONLY supported way to build the docs. Never improvise around a
+missing nox (e.g. by invoking sphinx-build directly or hand-rolling a
+virtualenv). If nox is not installed, install it first (`pip install nox` —
+add the `[pbs]` extra if the pinned Python interpreter is not available on
+the system), then run the build through nox.
