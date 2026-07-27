@@ -35,4 +35,4 @@ Moshe'z Recipes
     veggie-dog-pinto-bean-bake
     mujadara-hamra
     tvp-porcini-ragu
-    egg-white-tahini-chocolate-pudding
+    pea-protein-tahini-chocolate-pudding
