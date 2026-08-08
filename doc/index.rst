@@ -36,3 +36,4 @@ Moshe'z Recipes
     mujadara-hamra
     tvp-porcini-ragu
     pea-protein-tahini-chocolate-pudding
+    hard-boiled-eggs
