@@ -1,0 +1,27 @@
+name: Docs
+
+on:
+  push:
+    branches: [trunk]
+  pull_request:
+
+jobs:
+  build:
+    # Mirror the ReadTheDocs environment (.readthedocs.yaml): ubuntu-22.04,
+    # Python 3.13, dependencies from requirements.txt, Sphinx over doc/.
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+      - name: Install nox
+        run: pip install nox
+      - name: Build docs
+        run: nox -s docs
+      - name: Upload built site
+        uses: actions/upload-artifact@v4
+        with:
+          name: docs-html
+          path: build/nox/docs/tmp/output/html
