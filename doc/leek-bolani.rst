@@ -27,6 +27,15 @@ Method
    it's stiff, add the remaining water a few grams at a time.
 #. Rest: Cover and leave at room temperature for 45 minutes. This rest
    is what lets the dough roll thin without springing back.
+#. Chop the leeks and scallions: Trim the roots and dark green tops
+   off the leeks, halve them lengthwise (quarter fat ones), and rinse
+   well between the layers — grit hides deep inside them. Slice
+   crosswise into thin half-moons, about 3 mm (1/8 inch) thick.
+   Anything coarser won't wilt properly under the salt in the next
+   step and will poke holes in the thin dough. Trim the scallions and
+   slice them, white and green parts both, into rounds of the same
+   thickness. Drain and pat everything dry — surface water works
+   against the salting that follows.
 #. Salt the filling: Toss the chopped leeks and scallions with the
    9 grams of salt in a colander set over a bowl, and leave
    them to weep for 15 minutes. This step is the difference between a
