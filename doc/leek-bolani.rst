@@ -8,27 +8,27 @@ Ingredients
 ~~~~~~~~~~~
 
 * 400 grams all-purpose flour
-* 1 teaspoon salt (for the dough)
-* 2 tablespoons neutral oil (for the dough)
+* 6 grams salt (for the dough)
+* 28 grams neutral oil (for the dough)
 * 250 ml warm water
 * 500 grams leeks, white and light green parts, very finely chopped
 * 150 grams scallions, finely chopped
-* 1 1/2 teaspoons salt (for the filling)
-* 2 teaspoons coarsely ground black pepper
-* 4 tablespoons neutral oil (for frying)
+* 9 grams salt (for the filling)
+* 5 grams coarsely ground black pepper
+* 56 grams neutral oil (for frying)
 
 Method
 ~~~~~~
 
-#. Make the dough: Mix the flour with 1 teaspoon of salt. Add the
-   2 tablespoons of oil and most of the warm water, holding a little
+#. Make the dough: Mix the flour with the 6 grams of salt. Add the
+   28 grams of oil and most of the warm water, holding a little
    back. Bring it together, then knead on the counter until smooth and
    soft — noticeably softer than bread dough — about 8 minutes. If
-   it's stiff, add the remaining water a teaspoon at a time.
+   it's stiff, add the remaining water a few grams at a time.
 #. Rest: Cover and leave at room temperature for 45 minutes. This rest
    is what lets the dough roll thin without springing back.
 #. Salt the filling: Toss the chopped leeks and scallions with the
-   1 1/2 teaspoons of salt in a colander set over a bowl, and leave
+   9 grams of salt in a colander set over a bowl, and leave
    them to weep for 15 minutes. This step is the difference between a
    crisp bolani and a soggy one.
 #. Finish the filling: Wring the leeks out hard in a clean towel — you
@@ -43,7 +43,7 @@ Method
    leaving a half-inch border. Fold the empty half over, press out the
    air, and pinch the edge firmly closed — go around it twice. Repeat
    with the rest.
-#. Fry: Heat the 4 tablespoons of oil in a heavy skillet over medium.
+#. Fry: Heat the 56 grams of oil in a heavy skillet over medium.
    Fry until golden and blistered on the first side, then flip and do
    the second, about 6 minutes in all. Drain briefly on a rack, not
    paper, so the bottom stays crisp.
