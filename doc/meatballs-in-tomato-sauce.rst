@@ -41,7 +41,7 @@ Method
 * Roll into balls the size of a ping-pong ball, about 30 in all.
 * Line a baking sheet with parchment and grease the parchment.
   Set the balls on it and spray them with oil.
-* Bake at 180C for 20 minutes.
+* Bake at 350°F (180°C) for 20 minutes.
   Take the sheet out, flip the meatballs, and return for another
   10 minutes.
 * Put the 120 grams of water in a pot and add the meatballs.
@@ -49,8 +49,13 @@ Method
   the 2 grams of smoked paprika, and the 0.5 grams of pepper.
   Pour over the meatballs.
 * Add water until the meatballs are covered.
-* Bring to a boil, then lower the heat and leave for 30 minutes.
-  It should bubble the whole time.
+* Bring to a boil over high heat (400°F).
+* Reduce to 225°F, set the lid ajar, and leave for 30 minutes.
+  It should bubble the whole time: small bubbles steadily breaking
+  the surface, not a rolling boil.
+  If the bubbling stops, nudge up to 250°F;
+  if it boils hard, drop to 200°F.
+  Stir once or twice so the sauce does not catch on the bottom.
 
 Notes
 -----
