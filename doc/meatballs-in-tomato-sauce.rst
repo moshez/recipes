@@ -17,7 +17,7 @@ Meatballs
 * 6 grams salt
 * 1 gram ground black pepper
 * 7 grams smoked paprika
-* 150 grams onion (1), grated
+* 150 grams onion (1 medium onion), grated
 * 15 grams garlic (5 cloves), crushed
 * Oil, for greasing the parchment and spraying the meatballs
 
@@ -25,7 +25,7 @@ Sauce
 ~~~~~
 
 * 120 grams water, plus more to cover
-* 700 grams tomato passata
+* 700 grams tomato passata (1 bottle)
 * 1 gram dried oregano
 * 1 gram dried basil
 * 1 gram dried thyme
