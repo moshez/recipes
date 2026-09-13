@@ -25,7 +25,8 @@ Sauce
 ~~~~~
 
 * 120 grams water, plus more to cover
-* 700 grams tomato passata (1 bottle)
+* 680 grams strained tomatoes (one 24 oz jar; sold as passata or
+  tomato puree)
 * 1 gram dried oregano
 * 1 gram dried basil
 * 1 gram dried thyme
@@ -44,22 +45,31 @@ Method
 * Bake at 350°F (180°C) for 20 minutes.
   Take the sheet out, flip the meatballs, and return for another
   10 minutes.
-* Put the 120 grams of water in a pot and add the meatballs.
-* Mix the passata with the oregano, basil, thyme,
+* Put the 120 grams of water in a pot and add the baked meatballs.
+* In a bowl, mix the strained tomatoes with the oregano, basil, thyme,
   the 2 grams of smoked paprika, and the 0.5 grams of pepper.
   Pour over the meatballs.
-* Add water until the meatballs are covered.
-* Bring to a boil over high heat (400°F).
-* Reduce to 225°F, set the lid ajar, and leave for 30 minutes.
-  It should bubble the whole time: small bubbles steadily breaking
-  the surface, not a rolling boil.
-  If the bubbling stops, nudge up to 250°F;
-  if it boils hard, drop to 200°F.
-  Stir once or twice so the sauce does not catch on the bottom.
+* Add water until the meatballs are just covered.
+* Bring to a boil, uncovered, over high heat (400°F).
+  You are waiting for bubbles across the whole surface, not just at
+  the edges.
+* As soon as it boils, turn the dial down to 225°F and set the lid on
+  ajar. Start the 30 minute timer now, not when the pot went on.
+* Check after 5 minutes. You want a steady simmer: small bubbles
+  breaking the surface across the pot every second or two. It should
+  never go quiet, and never boil hard. If it has stopped bubbling,
+  raise to 250°F; if it is boiling hard (big bubbles, splattering),
+  lower to 200°F. Look again a few minutes after any change.
+* During the 30 minutes, stir gently once or twice, scraping the
+  bottom so the tomato does not catch. Go easy so the meatballs stay
+  whole.
+* After 30 minutes the sauce should coat a spoon and the meatballs
+  are cooked through. Serve.
 
 Notes
 -----
 
-The original notes did not give amounts for the passata or the dried
-herbs. 700 grams is one standard bottle of passata; the herb amounts
-above are about a teaspoon of each, so adjust to taste.
+The original notes did not give amounts for the tomatoes or the dried
+herbs. 680 grams is one standard 24 oz US jar of strained tomatoes,
+which is what we cook this with; the herb amounts above are about a
+teaspoon of each, so adjust to taste.
